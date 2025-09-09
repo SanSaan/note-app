@@ -1,0 +1,22 @@
+Get all posts
+Get all posts
+Get post by 1
+Get post by 2
+Get post by 3
+Get all posts
+Get post by 1
+Create post
+Create post
+Create post
+Create post
+Create post
+Create post
+Create post
+Create post
+Create post
+Get all posts
+Get all posts
+Delete post
+Get all posts
+Get post by 6
+Get all posts
